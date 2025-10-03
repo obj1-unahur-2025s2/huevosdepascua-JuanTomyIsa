@@ -1,7 +1,7 @@
 import huevosDePascua.*
 
 object ana {
-    const huevosComidos = []
+    const huevosComidos = []//
     method comerHuevo(unHuevo) {
       huevosComidos.add(unHuevo)
     }
